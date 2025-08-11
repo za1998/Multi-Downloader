@@ -1,21 +1,22 @@
 {
   "name": "Multi Downloader",
   "short_name": "Downloader",
-  "description": "Unduh video dari TikTok, YouTube, Instagram, dan X (Twitter) secara cepat dan gratis.",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#0f172a",
+  "description": "Aplikasi downloader video dari TikTok, Instagram, YouTube, dan X",
   "icons": [
     {
-      "src": "/icons/icon-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "/icons/icon-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ]
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
 }

@@ -120,7 +120,7 @@ export default function Home() {
 
   <footer className="mt-10 text-xs text-zinc-500 text-center">
     <p>
-      <a href="https://www.instagram.com/kiareza23" target="_blank" className="underline">Instagram</a> |{' '}
+      <a href="https://www.instagram.com/kumahamen" target="_blank" className="underline">Instagram</a> |{' '}
       <a href="https://www.facebook.com/share/1C61Tf65Xq/" target="_blank" className="underline">Facebook</a>
     </p>
   </footer>
